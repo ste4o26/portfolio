@@ -32,8 +32,8 @@ const projects = [
 
         link: 'https://github.com/ste4o26/softuni_anilux_project',
         dates: {
-            start: '05.02.2020',
-            end: '05.03.2020'
+            start: '02.2021',
+            end: '03.2021'
         }
     },
 
@@ -82,8 +82,8 @@ const projects = [
 
         link: 'https://github.com/ste4o26/cookviser',
         dates: {
-            start: '05.02.2021',
-            end: '05.03.2021'
+            start: '06.2021',
+            end: '07.2021'
         }
     }
 ];

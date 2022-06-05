@@ -15,24 +15,24 @@ const AboutContent = () => {
                 <Card>
                     <p>
                         Hello, my name is Stefan Damyanov. I am web developer based in Sofia, Bulgaria.
-                        My mission is to consume as much as possible
-                        knowadge so i can be usfull to the team members and the clients.
+                        My mission is to consume as much knowadge as possible
+                        so i can be usfull to the team members and the clients.
                     </p>
                 </Card>
 
                 <Card>
                     <p>
-                        When working on a project the most important thing for me is to write
+                        When working on a project, the most important thing for me is to write
                         clean and efficient code. I love code debbuging and finding bugs.
-                        This helps me to avoide making them in the future.
+                        This helps me to avoid making the same mistakes in the future.
                     </p>
                 </Card>
 
                 <Card>
                     <p>
-                       Learning about all this technologies isnt my only passion. 
-                       I love to spreading the knowadge i have consumed with 
-                       everyone who wants to learn  or perhaps just need some help.
+                       Learning about all this technologies is not my only passion. 
+                       I love spreading the knowadge i have consumed with 
+                       everyone who wants to learn or perhaps just need some help.
                     </p>
                 </Card>
             </section>
