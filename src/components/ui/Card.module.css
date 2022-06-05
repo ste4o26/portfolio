@@ -1,0 +1,8 @@
+.card {
+    max-width: 90%;
+    margin: 1em;
+    padding: 0.5em;
+    border-bottom: 1px solid black;
+    width: 30em;
+    text-align: center;
+}

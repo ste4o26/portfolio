@@ -1,0 +1,21 @@
+.button {
+    background-color: #cccac4;
+    color: #000000;
+    border-radius: 0.3em;
+    border: none;
+    width: 4.5em;
+    height: 2em;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.35);
+}
+
+.button:hover {
+    background-color: #cccad5
+}
+
+.button:active {
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+    outline: none;
+}
