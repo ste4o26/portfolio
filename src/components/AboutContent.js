@@ -23,14 +23,14 @@ const AboutContent = () => {
                 <Card>
                     <p>
                         When working on a project, the most important thing for me is to write
-                        clean and efficient code. I love code debbuging and finding bugs.
+                        clean and efficient code. I love code debugging and finding bugs.
                         This helps me to avoid making the same mistakes in the future.
                     </p>
                 </Card>
 
                 <Card>
                     <p>
-                       Learning about all this technologies is not my only passion. 
+                       Learning about all these technologies is not my only passion. 
                        I love spreading the knowadge i have consumed with 
                        everyone who wants to learn or perhaps just need some help.
                     </p>
