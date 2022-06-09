@@ -15,8 +15,8 @@ const AboutContent = () => {
                 <Card>
                     <p>
                         Hello, my name is Stefan Damyanov. I am web developer based in Sofia, Bulgaria.
-                        My mission is to consume as much knowadge as possible
-                        so i can be usefull to the team members and the clients.
+                        My mission is to consume as much knowledge as possible
+                        so I can be useful to the team members and the clients.
                     </p>
                 </Card>
 
@@ -31,7 +31,7 @@ const AboutContent = () => {
                 <Card>
                     <p>
                        Learning about all these technologies is not my only passion. 
-                       I love spreading the knowadge i have consumed with 
+                       I love spreading the knowledge i have consumed with 
                        everyone who wants to learn or perhaps just need some help.
                     </p>
                 </Card>
