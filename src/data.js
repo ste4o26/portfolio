@@ -21,7 +21,7 @@ const projects = [
 
         descriptions: [
             `Anilux is an anime videos streaming website which uses cloud provider to store its pictures as well as videos.
-        It interacts with users collect data about what they have liked and produces recommendations based on their likings.`,
+        It interacts with users, collect data about what they likes and produces recommendations based on their likings.`,
 
             `Users have the ability to store videos in their watch later list, to like certain anime, to post a comment on certain episode 
         and to watch those episodes themselves.`,
@@ -65,18 +65,18 @@ const projects = [
         technologies: ['Angular', 'HTML5', 'CSS3', 'JS', 'Java', 'Spring', 'MySQL', 'Hibernate'],
 
         descriptions: [
-            `Cookviser is a recepie storage website(e.g. cook-book).
-            It uses cloud provider to store its assets and the cloud api to display them.`,
+            `Cookviser is a recipe storage website(e.g. cook-book).
+            It uses cloud provider to store and display its assets.`,
 
-            `Functionallity includes user authentication, updating user profile,
-            posting and deleting recepies, rate other people recepies.
+            `Functionality includes user authentication, updating user profile,
+            posting and deleting recipes, rate other people recipes.
             All the recources are loaded via infinite scroll.`,
 
             `Users can use the website without logging in but for read only purposes.
-            Once authenticated they are have authorities to create,
+            Once authenticated they are have authorities to create
             or delete their own recepies.`,
 
-            `Moderator functionallity includes deleting other people recepies and creating new cusines, while the admin can also
+            `Moderator functionality includes deleting other people recipes and creating new cuisines, while the admin can also
             promote / demote other people.`
         ],
 
